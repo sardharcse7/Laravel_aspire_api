@@ -1,7 +1,6 @@
 # Laravel_aspire_api
 
 Step:1
-Download the project in your sustem by using link, https://github.com/sardharcse7/aspireapi
 cd laravel-passport-aspire-loan-api
 
 Step2:
