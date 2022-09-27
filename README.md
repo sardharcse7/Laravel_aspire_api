@@ -1,21 +1,3 @@
-# Laravel_aspire_api
+# laravel-passport-auth
 
-Step:1
-cd laravel-passport-aspire-loan-api
-
-Step2:
-Configure your database from .env file
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=laravel
-DB_USERNAME=root
-DB_PASSWORD=
-
-Step:3
-composer install
-
-Step:4
-php artisan migrate
-
-step:5
-php artisan serve
+[Laravel 7|8 REST API with Passport Authentication Tutorial](https://www.positronx.io/laravel-rest-api-with-passport-authentication-tutorial/)
